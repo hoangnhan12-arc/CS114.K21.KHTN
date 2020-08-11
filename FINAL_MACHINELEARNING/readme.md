@@ -13,3 +13,10 @@ B4: predict topic of title what you want
 Note: see video to see more.
 
 link: https://www.youtube.com/watch?v=tMEb_1Ici8Q
+
+
+Ghi chú:
+
+* Nguồn thuộc về NguyenVanHIeublog https://github.com/NguyenVanHieuBlog/programing-language-identify
+
+*Tất cả code do em tham khảo và edit lại cho phù hợp với đồ án của bản thân
