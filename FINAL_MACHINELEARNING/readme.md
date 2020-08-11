@@ -1,4 +1,5 @@
-Step by step to run app
+Step by step to run app.
+
 Type on terminal:
 
 B1: python3 app.py
