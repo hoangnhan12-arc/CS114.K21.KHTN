@@ -22,7 +22,7 @@
 
 > Code web demo: folder FINAL_MACHINELEARNING
 
-> Báo cáo đồ án cuối kì(pdf): file FinalMachineLearningggReport.pdf
+> Báo cáo đồ án cuối kì(pdf): file FinalMachineLearningReport(1).pdf
 
 >Slide đồ án cuối kì(pdf): file FinalMachineLearningSlide.pdf
 
