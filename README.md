@@ -18,7 +18,7 @@
 
 > Mô tả đồ án cuối kì: file o_ta_do_an_ML_cuoi_ki.ipynb
 
-> Final Project Machine Learning: file FinalMachineLearningProject.ipynb
+> Final Project Machine Learning: file FinalMachineLearningReportandCode.ipynb
 
 > Code web demo: folder FINAL_MACHINELEARNING
 
